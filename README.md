@@ -57,8 +57,8 @@ We welcome contributions! Please fork the repository and submit a pull request. 
 ## 📬 Contact
 
 For support or business inquiries:  
-📧 Email: support@eexam.com  
-🌐 Website: [https://eexam.com](https://eexam.com)
+📧 Email: spider2854@gmail.com  
+🌐 Website: [https://eexam.com](https://mrfailure777.github.io/E-Exam/)
 
 ---
 
